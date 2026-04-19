@@ -1,6 +1,6 @@
 NO NEED TO CLONE
-FOLLOW THE GUIDE
-TYPE THIS IN YOUR TERMINAL
+follo the guide 
+type the commands in terminal
 
 SETUP:
 pip install git+[https://github.com/kinvamp/liveguard.git](https://github.com/kinvamp/liveguard.git) 
