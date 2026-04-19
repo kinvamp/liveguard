@@ -5,5 +5,5 @@ TYPE THIS IN YOUR TERMINAL
 SETUP:
 pip install git+[https://github.com/kinvamp/liveguard.git](https://github.com/kinvamp/liveguard.git) 
 
-LUANCH:
+LAUNCH:
 liveguard
